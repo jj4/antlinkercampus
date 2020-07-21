@@ -41,7 +41,7 @@ class report:
         # 选择口号、体温、位置
         # data 本身即是json格式
         data = "{\"Router\":\"/api/studentsafetyreport/report\",\"Method\":\"POST\",\"Body\":\"{" \
-               "\\\"ReportArea\\\":\\\"xx市\\\",\\\"ReportCode\\\":\\\"984b5551-4a33-11ea-98a9-005056bc6061\\\"," \
+               "\\\"ReportArea\\\":\\\"xx市\\\",\\\"ReportCode\\\":\\\"984b5551-xxxx-xxxx-xxxx-005056bc6061\\\"," \
                "\\\"UID\\\":\\\"\\\",\\\"Temperature\\\":\\\"1\\\",\\\"ReportAreaLat\\\":\\\"{" \
                "\\\\\\\"lng\\\\\\\":119.xxxxxxxxxxx,\\\\\\\"lat\\\\\\\":35.xxxxxxxxxxx," \
                "\\\\\\\"of\\\\\\\":\\\\\\\"inner\\\\\\\"}\\\",\\\"ReportAreaChoiceCode\\\":\\\"\\\"," \
