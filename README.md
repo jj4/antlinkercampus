@@ -11,8 +11,6 @@
 
 `ReportAreaLat`（经纬度）等数据可抓包获取。
 
-<img src="https://h5api.xiaoyuanjijiehao.com/safereport5/img/bg-image.a4526f18.png" align="left" width="500"/>
-
 ### 体温上报
 
 > 新增功能
@@ -22,3 +20,5 @@
 ### Server酱通知
 
 接入<a href="http://sc.ftqq.com">Server酱</a>可实现微信实时推送。
+
+<img src="https://h5api.xiaoyuanjijiehao.com/safereport5/img/bg-image.a4526f18.png" align="left" width="500"/>
