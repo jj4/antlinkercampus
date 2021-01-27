@@ -13,8 +13,11 @@
 
 ### 体温上报
 
-校内上报和校内上报请更改`reportArea`。为避免不可预估的错误，`user`请抓包获取。
+校内上报和校内上报请更改`reportArea`为“校内”或“校外”。
 
-### Server酱通知
+### 信息填报
 
-接入<a href="http://sc.ftqq.com">Server酱</a>可实现微信实时推送。
+
+### 通知
+
+接入<a href="http://sc.ftqq.com">Server酱</a>、<a href="http://pushplus.hxtrip.com">pushplus（推送加）</a>可实现微信推送。
